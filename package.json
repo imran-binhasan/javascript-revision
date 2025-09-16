@@ -1,0 +1,22 @@
+{
+  "name": "js-revision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emran-binhasan/javascript-revision.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emran-binhasan/javascript-revision/issues"
+  },
+  "homepage": "https://github.com/emran-binhasan/javascript-revision#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
